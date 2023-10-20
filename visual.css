@@ -1,0 +1,40 @@
+body{
+background-color:black; 
+ margin: 0; 
+ padding: 0
+}
+
+h1{
+    color: aliceblue;
+    font-family: Helvetica, sans-serif;
+    font-weight: lighter;
+    font-size: 24px;
+
+
+
+}
+.Page1{
+    background-color:lightcyan;
+    width: 180px;
+    height: 180px;
+    position: absolute;
+    top: 50%;
+    left: 60%;
+    border-radius: 100px;
+
+ 
+}
+
+.Page2{
+    width: 250px;
+    height: 250px;
+    position: absolute;
+    top: 15%;
+    left: 5%;
+    border-radius: 150px;
+    border-style: dotted;
+    border-width: 7px;
+    border-color: lightcyan;
+    cursor: pointer;
+}
+
