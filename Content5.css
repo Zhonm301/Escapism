@@ -1,0 +1,93 @@
+body{
+    background-color: blue;
+}
+.Exit{
+    position: absolute;
+    z-index: 1;
+    top: 900px;
+    left: 1450px;
+    width: -50px;
+    height: 20px;
+    background-color: red;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: larger;
+}
+.BG{
+    width: 1550px;
+    height: 950px;
+    position: absolute;
+    top: -10px;
+    left: -10px;
+}
+.gif1{
+    position: absolute;
+    z-index: 2;
+    width: 100px;
+}
+.gif2{
+    position: absolute;
+    z-index: 2;
+    width: 100px;
+    top: 200px;
+
+}
+.gif3{
+    position: absolute;
+    z-index: 2;
+    width: 100px;
+    top: 400px;
+    
+}
+.gif4{
+    position: absolute;
+    z-index: 2;
+    width: 100px;
+    top: 600px;
+    
+}
+.gif5{
+    position: absolute;
+    z-index: 2;
+    width: 100px;
+    top: 800px;
+    
+}
+
+
+
+
+.gif6{
+    position: absolute;
+    z-index: 2;
+    width: 100px;
+    left: 1400px;
+}
+.gif7{
+    position: absolute;
+    z-index: 2;
+    width: 100px;
+    top: 200px;
+    left: 1400px;
+
+}
+.gif8{
+    position: absolute;
+    z-index: 2;
+    width: 100px;
+    top: 400px;
+    left: 1400px;
+}
+.gif9{
+    position: absolute;
+    z-index: 2;
+    width: 100px;
+    top: 600px;
+    left: 1400px;
+}
+.gif10{
+    position: absolute;
+    z-index: 2;
+    width: 100px;
+    top: 800px;
+    left: 1400px;
+}
